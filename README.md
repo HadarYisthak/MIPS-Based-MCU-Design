@@ -1,6 +1,6 @@
 MIPS-Based MCU Architecture
 
-(/MCU.png)
+![MIPS MCU Architecture](MCU.png)
 
 This project implements a MIPS-based microcontroller (MCU) with Memory-Mapped I/O and interrupt support. It includes a single-cycle CPU core and essential peripheral modules, demonstrating modular microcontroller design in VHDL.
 
